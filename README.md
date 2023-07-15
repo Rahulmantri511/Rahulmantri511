@@ -1,8 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Rahul Mantri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulmantri511&label=Profile%20views&color=0e75b6&style=flat" alt="rahulmantri511" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
@@ -11,12 +11,14 @@
 
 - 📫 How to reach me **rahulmantri2002@gmail.com**
 
+- 📄 Know about my experiences [https://www.dropbox.com/s/1ob2a5qtob4ldpk/New%20resume.pdf?dl=0](https://www.dropbox.com/s/1ob2a5qtob4ldpk/New%20resume.pdf?dl=0)
+
 - ⚡ Fun fact **I think I am good in games(:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-mantri-9b2bb5256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-mantri-9b2bb5256/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rahul.mantri.562/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rahul.mantri.562/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-mantri-9b2bb5256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-mantri-9b2bb5256" height="30" width="40" /></a>
+<a href="https://instagram.com/rahul.mantri.562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul.mantri.562" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
